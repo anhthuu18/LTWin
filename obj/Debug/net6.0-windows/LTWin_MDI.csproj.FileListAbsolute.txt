@@ -1,0 +1,34 @@
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.exe
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.deps.json
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.runtimeconfig.json
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.pdb
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.Form1.resources
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.FormCon.resources
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.csproj.GenerateResource.cache
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.AssemblyInfoInputs.cache
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.AssemblyInfo.cs
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.csproj.CoreCompileInputs.cache
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\refint\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.pdb
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.genruntimeconfig.cache
+D:\Ki 2 - Nam 2\New folder\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\ref\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.exe
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.deps.json
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.runtimeconfig.json
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\bin\Debug\net6.0-windows\LTWin_MDI.pdb
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.Form1.resources
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.FormCon.resources
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.csproj.GenerateResource.cache
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.AssemblyInfoInputs.cache
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.AssemblyInfo.cs
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.csproj.CoreCompileInputs.cache
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\refint\LTWin_MDI.dll
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.pdb
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\LTWin_MDI.genruntimeconfig.cache
+D:\Ki 2 - Nam 2\LAP TRINH TREN WINDOWS\LTWin_MDI\LTWin_MDI\obj\Debug\net6.0-windows\ref\LTWin_MDI.dll
